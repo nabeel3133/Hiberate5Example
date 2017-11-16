@@ -7,8 +7,8 @@ package pk.edu.nust.seecs.advprog.hiberate5example.bo;
 
 /**
  *
- * @author Fahad Satti <fahad.satti@seecs.edu.pk>
  */
+
 public interface EmployeeBo {
 
     int addContractEmployee(int empIndex, float pay_per_hour, String contract_period);
